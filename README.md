@@ -9,7 +9,7 @@ Building projects on the side to learn, grow, and see what's possible.
 ## Projects
 | Project | Description | Tools |
 |---|---|---|
-| Project 1 - AWS VPC + Bastion | VPC with public/private subnets, bastion host, private EC2 running Nginx in Docker | AWS, Terraform, Docker |
+| [AWS VPC + Bastion](https://github.com/simon-suh/aws-vpc-bastion-terraform) | VPC with public/private subnets, bastion host, private EC2 running Nginx in Docker | AWS, Terraform, Docker |
 | Project 2 | Coming soon | Kafka, ELK, Grafana |
 | Project 3 | Coming soon | Kubernetes, Jenkins, Argo CD |
 
