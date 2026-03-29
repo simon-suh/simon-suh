@@ -9,8 +9,8 @@ Building projects on the side to learn, grow, and see what's possible.
 ## Projects
 | Project | Description | Tools |
 |---|---|---|
-| [AWS VPC + Bastion](https://github.com/your-username/aws-vpc-bastion-terraform) | VPC with public/private subnets, bastion host, and private EC2 running Nginx in Docker | AWS, Terraform, Docker |
-| Kafka + Kibana + PostgreSQL | Coming soon | Kafka, Kafka Schema Registry, Elasticsearch, Kibana, Grafana, PostgreSQL, Docker Compose |
+| [AWS VPC + Bastion](https://github.com/simon-suh/aws-vpc-bastion-terraform) | VPC with public/private subnets, bastion host, and private EC2 running Nginx in Docker | AWS, Terraform, Docker |
+| [Kafka + Kibana + PostgreSQL](https://github.com/simon-suh/kafka-kibana-postgresql) | Local Docker Compose stack with Kafka, Elasticsearch, Kibana, PostgreSQL, and Grafana monitoring dashboards | Kafka, Kafka Schema Registry, Elasticsearch, Kibana, Grafana, PostgreSQL, Docker Compose |
 | Kafka + OpenSearch + DynamoDB | Coming soon | Kafka, Kafka Schema Registry, OpenSearch, OpenSearch Dashboards, Grafana, DynamoDB, Terraform, Docker Compose |
 | Kubernetes + Jenkins + Argo CD | Coming soon | Kubernetes, Docker, Jenkins, Argo CD, GitHub |
 
