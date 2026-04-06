@@ -13,7 +13,7 @@ Building projects on the side to learn, grow, and see what's possible.
 | [Kafka + Kibana + PostgreSQL](https://github.com/simon-suh/kafka-kibana-postgresql) | Local Docker Compose stack with Kafka, Elasticsearch, Kibana, PostgreSQL, and Grafana monitoring dashboards | Kafka, Schema Registry, Elasticsearch, Kibana, Grafana, PostgreSQL, Docker Compose |
 | [Kafka + OpenSearch + DynamoDB](https://github.com/simon-suh/kafka-opensearch-dynamodb) | Hybrid local and AWS stack with Kafka, OpenSearch, OpenSearch Dashboards, DynamoDB provisioned via Terraform, and Grafana monitoring dashboards | Kafka, Schema Registry, OpenSearch, OpenSearch Dashboards, Grafana, DynamoDB, Terraform, Docker Compose |
 | [Kubernetes + GitHub Actions + Flux CD](https://github.com/simon-suh/kubernetes-githubactions-fluxcd) | Local Kubernetes CI/CD pipeline with Minikube, GitHub Actions and Flux CD for GitOps deployments | Kubernetes, Minikube, GitHub Actions, Flux CD, Docker, Python |
-| Kubernetes + Jenkins + Argo CD | Coming soon | Kubernetes, Docker, Jenkins, Argo CD, Vault |
+| 🚧 [Box Company's Order Management System](https://github.com/simon-suh/boxcompany) | Full-stack microservices system where three internal teams (Sales, Shipment, Inventory) communicate through a Kafka event backbone. Structured around three scenarios deployed via a GitOps CI/CD pipeline to simulate real-world bug fixes and feature releases | Python, FastAPI, Kafka, Schema Registry, PostgreSQL, DynamoDB, Docker, Kubernetes, Jenkins, Argo CD, Vault, Sealed Secrets, Prometheus, Grafana, OpenSearch, Terraform, AWS |
 
 ## Tech Stack
 | | |
